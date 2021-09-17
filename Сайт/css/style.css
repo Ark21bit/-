@@ -1,0 +1,196 @@
+body
+{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: silver;  
+    
+    
+    width: 100%;
+    height: 100%;
+    background: url("../assets/images/home/4.jpg") 
+    center
+    no-repeat;
+    
+
+
+     
+   
+}
+
+
+h1,h2,h3
+{
+    text-align: center;
+}
+
+.container
+{
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.container1
+{
+  
+    height: 40%; 
+    margin-top:15%;
+	margin-bottom:15%;
+    
+}
+.container2
+{
+  
+    height: 40%; 
+    margin-top:15%;
+	margin-bottom:15%;
+    
+}
+
+.container3
+{
+  
+    height: 30%; 
+    margin-top:15%;
+	margin-bottom:25%;
+    
+}
+
+
+.header
+{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+    margin-top: 15px;
+}
+
+.table1
+{ 
+  
+    margin: auto  ;
+}
+
+.table2
+{ 
+  
+    margin: auto;
+	
+}
+.logo
+{
+    width: 100px; 
+    margin: 0 auto;
+}
+
+.nav
+{
+    font-size: 14 px;
+    text-transform:uppercase;
+}
+
+.nav_link
+{
+    color: #212F3C;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 30px;
+}
+
+.nav_link2
+{
+    color: whitesmoke;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 50px;
+}
+
+.nav_link:hover
+{
+    color: #0d6321;
+    transition: color 0.2s linear;
+}
+
+.nav_link2:hover
+{
+    color: #0d6321;
+    transition: color 0.2s linear;
+}
+
+.inner 
+{
+    width: 100%;
+    max-width: 880px;
+	max-height: 1080px;
+    margin: 0 auto;
+}
+
+.home
+{
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.home1
+{
+    font-size: 30px;
+
+}
+
+
+.aboutme
+{
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+.photo1
+{
+    height: 400px;
+   
+}
+
+.achivki
+{
+    width: 375px;
+    height: 125x;
+}
+
+.rovno
+{
+    margin-right: 1px;
+}
+.rovno3
+{
+    margin-top: 150px;
+    
+}
+
+.gimp1
+{
+    width: 400px;
+    height: 250px;
+}
+
+.inkscape
+{
+    background-color: whitesmoke;
+    width: 350px;
+    height: 250px;
+}
+
+.pp
+{
+    width: 350px;
+}
+.word
+{
+    width: 450px;
+}
